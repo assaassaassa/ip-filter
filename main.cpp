@@ -34,7 +34,7 @@ int main(int argc, char const *argv[])
 {
     try
     {
-        std::vector<std::vector<std::string> > ip_pool;
+        /*std::vector<std::vector<std::string> > ip_pool;
 
         for(std::string line; std::getline(std::cin, line);)
         {
@@ -119,7 +119,7 @@ int main(int argc, char const *argv[])
         // 46.55.46.98
         // 46.49.43.85
         // 39.46.86.85
-        // 5.189.203.46
+        // 5.189.203.46*/
     }
     catch(const std::exception &e)
     {
